@@ -4,11 +4,13 @@ Displays a picture from meme api.
 
 ### How to run
 
-Make sure you have Python 3 and pip installed.
+Clone the repository and make sure you have Python 3 and pip installed.
 
 Create and activate venv from parent directory
 ```bash
-python3 -m venv flask-practice
+git clone <this repository>
+python3 -m venv flasktest
+cd flasktest
 source bin/activate
 ```
 
